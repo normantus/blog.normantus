@@ -1,9 +1,9 @@
 /*
- * Skin: Green
+ * Skin: Tosca
  * -----------
  */
 .skin-tosca .main-header .navbar {
-  background-color: #2ED1A2;
+  background-color: #ff0015;
 }
 .skin-tosca .main-header .navbar .nav > li > a {
   color: #ffffff;
@@ -59,7 +59,7 @@
 .skin-tosca .wrapper,
 .skin-tosca .main-sidebar,
 .skin-tosca .left-side {
-  background-color: #222d32;
+  background-color: #40535b;
 }
 .skin-tosca .user-panel > .info,
 .skin-tosca .user-panel > .info > a {
