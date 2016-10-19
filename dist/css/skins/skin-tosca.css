@@ -1,9 +1,9 @@
 /*
- * Skin: Tosca
+ * Skin: Green
  * -----------
  */
 .skin-tosca .main-header .navbar {
-  background-color: #00a65a;
+  background-color: #2ED1A2;
 }
 .skin-tosca .main-header .navbar .nav > li > a {
   color: #ffffff;
@@ -51,7 +51,7 @@
   background-color: #008749;
 }
 .skin-tosca .main-header li.user-header {
-  background-color: #00a65a;
+  background-color: #2ED1A2;
 }
 .skin-tosca .content-header {
   background: transparent;
@@ -76,7 +76,7 @@
 .skin-tosca .sidebar-menu > li.active > a {
   color: #ffffff;
   background: #1e282c;
-  border-left-color: #00a65a;
+  border-left-color: #2ED1A2;
 }
 .skin-tosca .sidebar-menu > li > .treeview-menu {
   margin: 0 1px;
